@@ -1,28 +1,61 @@
-<h1 align="center">Hi 👋, I'm Aman J Upadhyay</h1>
-<h3 align="center">"MCA Graduate | Proficient in Python, Data Analysis, and Statistical Modeling | Skilled in Pandas, NumPy, Seaborn, and Matplotlib"</h3>
+<h1 align="center">👋 Hello, I’m Aman J Upadhyay</h1>
+<h3 align="center">🎓 MCA Graduate | Aspiring Data Scientist | Proficient in Python, SQL, Data Analysis & Visualization</h3>
 
-- My Project is [ML Project](https://github.com/amanugzp/MLProject)
-- My Project is [Healthcare Analysis Project – COVID-19 Dataset](https://github.com/amanugzp/Aman_Upadhyay_Healthcare_project)
-- My Project is [Exploratory Data Analysis and Feature Engineering Project](https://github.com/amanugzp/EDA-and-Feature-Engineering)
-- My Project is [FIFA Dataset Exploratory Data Analysis Project](https://github.com/amanugzp/THE_ART_OF_EDA)
+---
 
+🔍 I am a **Data Science enthusiast** with a strong academic foundation (MCA) and hands-on experience in **exploratory data analysis, statistical modeling, machine learning**, and **data storytelling** using Python libraries and visualization tools.
 
+---
 
-- 🌱 I’m currently learning **Data Science**
+### 📌 Projects
 
-- ⚡ Fun fact [I think I am funny.](I think I am funny.)
+- 🔗 [Healthcare Analysis – COVID-19 Dataset](https://github.com/amanugzp/Aman_Upadhyay_Healthcare_project)  
+  *Exploratory analysis and insights derived from global COVID-19 data.*
 
-- 💬 Ask me about **C/C++,PYTHON(like library Numpy,padnas,seaborn,matplotlib),HTML,CSS**
+- 🔗 [EDA & Feature Engineering Project](https://github.com/amanugzp/EDA-and-Feature-Engineering)  
+  *Core techniques of data wrangling, transformation, and feature extraction.*
 
-- 📫 How to reach me **amanugzp@gmail.com**
+- 🔗 [FIFA Dataset Exploratory Data Analysis](https://github.com/amanugzp/THE_ART_OF_EDA)  
+  *In-depth analysis using Seaborn and Matplotlib to derive actionable patterns.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-upadhyay-23b297244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-upadhyay-23b297244/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kantariya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kantariya123" height="30" width="40" /></a>
-<a href="https://instagram.com/aman.j.900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman.j.900" height="30" width="40" /></a>
+- 🔗 [Machine Learning Project](https://github.com/amanugzp/MLProject)  
+  *ML pipeline implementation including model training, evaluation, and tuning.*
+
+---
+
+### 🎯 Current Focus
+- Actively pursuing **career opportunities** in Data Science, Analytics, and Python-SQL-based roles.
+- Enhancing proficiency in **machine learning, data structures, and model deployment (Flask/Streamlit)**.
+- Continuous learning through **projects, online certifications**, and community engagement.
+
+---
+
+### 💼 Technical Competencies
+
+- **Languages & Libraries**: Python, C/C++, HTML, CSS, JavaScript  
+- **Data Tools**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow  
+- **Databases**: MySQL, MongoDB  
+- **Dev Tools**: Git, GitHub, Postman, Docker  
+- **Frameworks**: Flask, Node.js  
+- **Softwares**: MS Excel, Power BI  
+
+---
+
+### 📫 Contact Information
+
+- 📧 Email: [amanugzp@gmail.com](mailto:amanugzp@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/aman-upadhyay-23b297244](https://www.linkedin.com/in/aman-upadhyay-23b297244/)  
+- 📊 Kaggle: [kantariya123](https://kaggle.com/kantariya123)  
+- 📷 Instagram: [@aman.j.900](https://instagram.com/aman.j.900)
+
+---
+
+### 📌 Fun Fact  
+> I find humor in data—because outliers are just misunderstood legends.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanugzp&show_icons=true&theme=default" alt="Aman's GitHub stats" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
