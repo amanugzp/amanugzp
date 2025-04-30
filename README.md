@@ -2,10 +2,10 @@
 <h3 align="center">"MCA Graduate | Proficient in Python, Data Analysis, and Statistical Modeling | Skilled in Pandas, NumPy, Seaborn, and Matplotlib"</h3>
 
 - My Project is [ML Project](https://github.com/amanugzp/MLProject)
-- My Project is [ML Project](https://github.com/amanugzp/MLProject)
-- My Project is [ML Project](https://github.com/amanugzp/MLProject)
-- My Project is [ML Project](https://github.com/amanugzp/MLProject)
-- My Project is [EDA_ON_FIFA](https://colab.research.google.com/drive/1JQQwP8fbFbK50ve0FoCt2PCboxAl9bB4?usp=sharing)
+- My Project is [Healthcare Analysis Project – COVID-19 Dataset](https://github.com/amanugzp/Aman_Upadhyay_Healthcare_project)
+- My Project is [Exploratory Data Analysis and Feature Engineering Project](https://github.com/amanugzp/EDA-and-Feature-Engineering)
+- My Project is [FIFA Dataset Exploratory Data Analysis Project](https://github.com/amanugzp/THE_ART_OF_EDA)
+
 
 
 - 🌱 I’m currently learning **Data Science**
