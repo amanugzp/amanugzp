@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AmanJ Upadhyay</h1>
+<h1 align="center">Hi 👋, I'm Aman J Upadhyay</h1>
 <h3 align="center">"MCA Graduate | Proficient in Python, Data Analysis, and Statistical Modeling | Skilled in Pandas, NumPy, Seaborn, and Matplotlib"</h3>
 
 - My Project is [EDA_ON_FIFA](https://colab.research.google.com/drive/1JQQwP8fbFbK50ve0FoCt2PCboxAl9bB4?usp=sharing)
