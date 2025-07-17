@@ -67,7 +67,7 @@
 
 - 📧 Email: [amanugzp@gmail.com](mailto:amanugzp@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/aman-upadhyay-23b297244](https://www.linkedin.com/in/aman-upadhyay-23b297244/)  
-- 📊 Kaggle: [kantariya123](https://kaggle.com/kantariya123)  
+- 📊 Kaggle: [datavibe5](https://www.kaggle.com/datavibe5) 
 - 📷 Instagram: [@aman.j.900](https://instagram.com/aman.j.900)
 
 ---
